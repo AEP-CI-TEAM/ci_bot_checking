@@ -10,3 +10,4 @@ jobs:
       - name: test
         run: |
           ls .
+          exit 1
